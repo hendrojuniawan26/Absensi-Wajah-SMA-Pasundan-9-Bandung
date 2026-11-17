@@ -1,0 +1,6 @@
+{
+  "name": "Absensi Wajah SMA Pasundan 9 Bandung",
+  "description": "Sistem Absensi Wajah Siswa Realtime berbasis browser menggunakan face-api.js dan Supabase untuk SMA Pasundan 9 Bandung.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
